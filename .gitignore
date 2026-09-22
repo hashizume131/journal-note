@@ -1,0 +1,14 @@
+# Generated outputs and scratch files
+tmp/
+output/
+
+# Local study source images
+extracted_exercises/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
